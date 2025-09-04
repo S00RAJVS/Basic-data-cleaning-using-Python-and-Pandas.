@@ -12,7 +12,8 @@ It loads a simple CSV dataset (`students.csv`), removes missing values, fills mi
 * **students.csv** → Sample dataset with some missing values.
 * **simple data cleaning program.py** → Python script that cleans the dataset.
 * **students\_cleaned.csv** → Output file after cleaning (generated when you run the script).
-* **README.md** → Documentation with steps and screenshots.
+* **README.md** → Documentation with steps.
+* **students datacleaning.png** →screenshot of code output
 
 ---
 
@@ -34,7 +35,6 @@ pip install pandas
 * Saves the cleaned dataset as `students_cleaned.csv`.
 
 ---
-
 
 ✨ This is a beginner-friendly example of **data cleaning with Pandas**.
 
