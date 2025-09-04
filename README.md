@@ -36,6 +36,6 @@ pip install pandas
 
 ---
 
-✨ This is a beginner-friendly example of **data cleaning with Pandas**.
+✨ Happy coding and keep your data clean!
 
 ---
