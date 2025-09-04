@@ -35,6 +35,9 @@ pip install pandas
 * Saves the cleaned dataset as `students_cleaned.csv`.
 
 ---
+## This is the output
+
+<img width="209" height="245" alt="students datacleaning" src="https://github.com/user-attachments/assets/2d37b90a-1fa2-4b25-bdac-8b77b5406b45" />
 
 ✨ Happy coding and keep your data clean!
 
