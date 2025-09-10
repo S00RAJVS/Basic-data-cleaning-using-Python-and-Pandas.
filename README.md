@@ -42,3 +42,10 @@ pip install pandas
 ✨ Happy coding and keep your data clean!
 
 ---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+You are free to use, modify, and distribute this project, but it comes **without warranty**.
+
+---
